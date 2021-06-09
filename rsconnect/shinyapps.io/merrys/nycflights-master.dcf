@@ -1,0 +1,12 @@
+name: nycflights-master
+title: nycflights-master
+username:
+account: merrys
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3805337
+bundleId: 4356278
+url: https://merrys.shinyapps.io/nycflights-master/
+when: 1615950320.87195
+asMultiple: FALSE
+asStatic: FALSE
